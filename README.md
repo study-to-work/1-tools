@@ -15,6 +15,8 @@
 
 ## cod-01.b - Teamwork
 
+* É uma ferramenta para gerenciamento de projetos
+
 ## cod-01.c - Ide
 
 ## cod-01.d - Git
