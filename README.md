@@ -2,7 +2,16 @@
 
 ## cod-01 - Apresentar ferramentas usadas no mundo do desenvolvimento de software
 
+
 ## cod-01.a - Github
+
+* Git e Github são utilizados no dia a dia das pessoas que criam software por um motivo bem simples: ter uma forma fácil de gerenciar o código fonte da aplicação, do sistema, do produto.
+
+* Em um time pequeno, algumas pessoas ainda tentam tomar conta desses arquivos de maneiras um tanto questionáveis: compartilhar diretórios na rede, utilizar ferramentas como Dropbox, ou manter tudo em um servidor de FTP. Práticas totalmente desaconselhadas.
+
+* O Github tem sim muita relação com o Git. GitHub é uma plataforma para gerenciar seu código e criar um ambiente de colaboração entre devs, utilizando o Git como sistema de controle. Ele vai facilitar o uso do Git, escondendo alguns detalhes mais complicados de setup. É lá que você provavelmente vai ter seu repositório e usar no dia a dia.
+
+* O sistema web que ele possui permite que você altere arquivos lá mesmo, apesar de não ser muito aconselhado, pois você não terá um editor, um ambiente de desenvolvimento e testes. Para se comunicar com o github e mexer nos arquivos do seu reposítorio, você pode usar a linha de comando, usando o comando do git e suas diretivas de commit, pull e push. Parece assustador? Há uma alternativa: usar um aplicativo desktop mais intuitivo
 
 ## cod-01.b - Teamwork
 
