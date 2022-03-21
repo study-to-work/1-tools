@@ -19,6 +19,16 @@
 
 ## cod-01.c - Ide
 
+* É um programa especial de edição de texto para programadores, no caso código
+* Geralmente inclui recursos como: 
+    * terminal embutido 
+    * coloração semantica da sintaxe
+    * identação automática
+    * opção de execução de dentro da IDE
+    * integração com o git
+    * opções de debug
+
+
 ## cod-01.d - Git
 
 ## cod-01.e - Sistemas operacionais
