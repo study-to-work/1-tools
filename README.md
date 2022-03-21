@@ -20,6 +20,15 @@
 
 ### a) Ide
 
+* É um programa especial de edição de texto para programadores, no caso código
+* Geralmente inclui recursos como: 
+    * terminal embutido 
+    * coloração semantica da sintaxe
+    * identação automática
+    * opção de execução de dentro da IDE
+    * integração com o git
+    * opções de debug
+
 ### b) Git
 
 * git add <nome do arquivo> - adiciona o arquivo ao stage
