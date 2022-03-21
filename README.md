@@ -1,9 +1,8 @@
 # Projects Tools
 
-## cod-01 - Apresentar ferramentas usadas no mundo do desenvolvimento de software
+## cod-01:  
 
-
-## cod-01.a - Github
+### a) Github
 
 * Git e Github são utilizados no dia a dia das pessoas que criam software por um motivo bem simples: ter uma forma fácil de gerenciar o código fonte da aplicação, do sistema, do produto.
 
@@ -13,25 +12,37 @@
 
 * O sistema web que ele possui permite que você altere arquivos lá mesmo, apesar de não ser muito aconselhado, pois você não terá um editor, um ambiente de desenvolvimento e testes. Para se comunicar com o github e mexer nos arquivos do seu reposítorio, você pode usar a linha de comando, usando o comando do git e suas diretivas de commit, pull e push. Parece assustador? Há uma alternativa: usar um aplicativo desktop mais intuitivo
 
-## cod-01.b - Teamwork
+### b) Teamwork
 
 * É uma ferramenta para gerenciamento de projetos
 
-## cod-01.c - Ide
+## cod-02:
 
-## cod-01.d - Git
+### a) Ide
 
-## cod-01.e - Sistemas operacionais
+### b) Git
 
-## cod-01.f - Utilitários de administração de sistemas
+* git add <nome do arquivo> - adiciona o arquivo ao stage
+* git commit -m "<mensagem do commit>" - commita as coisa do stage 
+* git pull origin <nome da branch> - baixa as mudanças do repositorio remoto 
+* git push -u origin <nome da branch> - manda as mudanças locais para o repositorio remoto
+* git merge <nome da branch alvo> - coloca o conteudo da branch alvo para a branch atual 
 
-## cod-01.g - Documentação das ferramentas de desenvolvimento
+## cod-3:
+
+### a) Sistemas operacionais
+
+### b) Utilitários de administração de sistemas
+
+## cod-4:
+
+### a) Documentação das ferramentas de desenvolvimento
 
 * Cada framework, biblioteca, linguagem de programação ou elemento no mundo da computação vai ter um documento que descreve a tecnologia que está sendo estudada, e ela costuma ser a principal referência quando se vai estudar uma tecnologia
 
 * A documentação é feita pelo criador ou organização criadora da tecnologia sendo estudada.
 
-## cod-01.h - Scrum
+### b) Scrum
 
 * O Scrum é uma estrutura que ajuda as equipes a trabalharem juntas. Semelhante a uma equipe de rugby (de onde vem o nome) treinando para o grande jogo, o Scrum estimula as equipes a aprenderem com as experiências, a se organizarem enquanto resolvem um problema e a refletirem sobre os êxitos e fracassos para melhorarem sempre.
 
